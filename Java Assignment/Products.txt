@@ -1,0 +1,9 @@
+chocoMe 11111111 aaa
+chocoHe 22222222 bbb
+chocHim 33333333 ccc
+chocAll 44444444 ddd
+chocoUs 55555555 eee
+chocole 66666666 fff
+chocoee 77777777 ggg
+chocoss 88888888 hhh
+chococo 99999999 iii
